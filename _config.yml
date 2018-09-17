@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhongyao Ma"
+  name             : "ZHONGYAO MA"
   avatar           : "profile.png"
   bio              : "Student at The University of Hong Kong"
   location         : "Hong Kong"
@@ -91,21 +91,21 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/Maggie599699"
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/feed/?trk="
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
