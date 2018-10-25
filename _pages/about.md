@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student in the University of Hong Kong, majoring in Computing & Data Analytics and finance.  
+I am an undergraduate student at the University of Hong Kong, majoring in Computing & Data Analytics and Finance.  
