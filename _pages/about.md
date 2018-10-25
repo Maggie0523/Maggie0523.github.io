@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Management Science and Engineering at Stanford,
-jointly advised by Prof. Kay Giesecke and Prof. Markus Pelger. Before coming to Stanford, I studied mathematics and statistics in Peking University. 
+I am an undergraduate student in the University of Hong Kong, majoring in Computing & Data Analytics and finance.  
